@@ -1,0 +1,13 @@
+06/11 22:56:48 - mmengine - INFO - Epoch(val) [9][27/27]    accuracy/top1: 72.6218  accuracy/top5: 93.9675  data_time: 0.0046  time: 0.1331
+06/11 22:56:52 - mmengine - INFO - Exp name: m_cofige_20230611_224524
+06/11 22:57:32 - mmengine - INFO - Epoch(train) [10][100/110]  lr: 1.0000e-04  eta: 0:00:56  time: 0.4399  data_time: 0.0017  memory: 2884  loss: 0.7723
+06/11 22:57:36 - mmengine - INFO - Exp name: m_cofige_20230611_224524
+06/11 22:57:36 - mmengine - INFO - Saving checkpoint at 10 epochs
+06/11 22:57:44 - mmengine - INFO - Epoch(val) [10][27/27]    accuracy/top1: 73.0858  accuracy/top5: 93.6195  data_time: 0.0070  time: 0.1356
+06/11 22:58:28 - mmengine - INFO - Epoch(train) [11][100/110]  lr: 1.0000e-04  eta: 0:00:04  time: 0.4364  data_time: 0.0011  memory: 2884  loss: 0.8273
+06/11 22:58:32 - mmengine - INFO - Exp name: m_cofige_20230611_224524
+06/11 22:58:32 - mmengine - INFO - Saving checkpoint at 11 epochs
+06/11 22:58:39 - mmengine - INFO - Epoch(val) [11][27/27]    accuracy/top1: 72.7378  accuracy/top5: 93.9675  data_time: 0.0047  time: 0.1330
+
+Loads checkpoint by local backend from path: I:/mmpretrain-main/work_dirs/m_cofige/best_accuracy_top1_epoch_11.pth
+Inference ---------------------------------------- 100% 0:00:00Results: 脐橙
