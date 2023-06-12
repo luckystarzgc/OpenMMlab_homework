@@ -6,9 +6,6 @@ import os
 
 # 有 GPU 就用 GPU，没有就用 CPU
 device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
-
-
-
 from mmpretrain import ImageClassificationInferencer
 
 inferencer = ImageClassificationInferencer(
